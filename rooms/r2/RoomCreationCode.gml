@@ -1,0 +1,1 @@
+oGoldenArrow.targetRoom=r3;

@@ -1,0 +1,1 @@
+oThaoRunBeginScreen.targetRoom=r1;
